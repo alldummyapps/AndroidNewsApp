@@ -1,11 +1,9 @@
 # NewsApp
 This is a news app I made for my projects folder. this app group together all the current news sites in israel with three categories: general news tech and sports. the app has live feed of the news and self updates them via rss feed. the app was made in android studio with java, xml and json.
 
+<img src="https://user-images.githubusercontent.com/55537529/65257404-d36f8300-db09-11e9-98fe-e6f69d0b8210.png" width="48">
 
-
-<img width="250" alt="https://user-images.githubusercontent.com/55537529/65256510-5099f880-db08-11e9-90da-111c9d563240.png">
-
-
-![Screenshot_1568905511](https://user-images.githubusercontent.com/55537529/65256512-51328f00-db08-11e9-9f06-6e1ee008539c.png)
-![Screenshot_1568905528](https://user-images.githubusercontent.com/55537529/65256514-51328f00-db08-11e9-91cc-d8de34a4b119.png)
-![Screenshot_1568905539](https://user-images.githubusercontent.com/55537529/65256515-51328f00-db08-11e9-8673-45265906daeb.png)
+![Screenshot_1568905482](https://user-images.githubusercontent.com/55537529/65257404-d36f8300-db09-11e9-98fe-e6f69d0b8210.png)
+![Screenshot_1568905511](https://user-images.githubusercontent.com/55537529/65257406-d36f8300-db09-11e9-9587-ccd61518033b.png)
+![Screenshot_1568905528](https://user-images.githubusercontent.com/55537529/65257408-d4081980-db09-11e9-9837-fc6bc33ea497.png)
+![Screenshot_1568905539](https://user-images.githubusercontent.com/55537529/65257409-d4081980-db09-11e9-9ccb-000c088ebaa0.png)
