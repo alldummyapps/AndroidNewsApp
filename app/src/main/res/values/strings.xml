@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">AllNews</string>
+    <string name="action_settings">Settings</string>
+    <string name="ynet">ynet</string>
+    <string name="mako">mako</string>
+    <string name="walla">walla</string>
+    <string name="haaretz">haaretz</string>
+
+
+    <string name="my_phone_number">My Phone Number...</string>
+    <string name="phone_verify_btn">A phone verification is needed.\n  We will send an SMS message to verify your phone number.\n Please enter your current phone number.</string>
+    <string name="send_verification_code">Send Verification Code</string>
+    <string name="submit_verification_code">Submit Verification Code</string>
+    <string name="phone_verify_sms">In order continue the account setup process. Please Input the Verification code You just accepted Via SMS.</string>
+    <string name="please_patient">The verification code should arrive shortly.  Please be patient</string>
+    <string name="users_status">Users Status</string>
+    <string name="user_name">User Name</string>
+    <string name="send_message">Send Message</string>
+    <string name="decline_request">Decline Request</string>
+    <string name="send_chat_request">Send Chat Request</string>
+    <string name="title_activity_categories">CategoriesActivity</string>
+    <string name="title_activity_sports">SportsActivity</string>
+    <string name="title_activity_tech">TechActivity</string>
+    <string name="update">Update</string>
+    <string name="currently_available">currently_available</string>
+    <string name="user_status">user_status</string>
+    <string name="username">username</string>
+</resources>

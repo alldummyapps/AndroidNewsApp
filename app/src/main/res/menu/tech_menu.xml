@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    >
+
+
+    <item
+        android:id="@+id/tech_navigation_ynet"
+        android:icon="@drawable/logo_ynet"
+        android:title=""
+        />
+
+    <item
+        android:id="@+id/tech_navigation_mako"
+        android:icon="@drawable/mako_logo"
+        android:title="" />
+    <item
+        android:id="@+id/tech_navigation_walla"
+        android:icon="@drawable/walla_logo"
+        android:title=""
+
+        />
+</menu>

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1050658174740",
+    "firebase_url": "https://allnews-443ab.firebaseio.com",
+    "project_id": "allnews-443ab",
+    "storage_bucket": "allnews-443ab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1050658174740:android:6d7e4283d529410d",
+        "android_client_info": {
+          "package_name": "edu.yonatan.allnews"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1050658174740-bcrgkk8drb2sr0c45eq7cv63nica4u56.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "edu.yonatan.allnews",
+            "certificate_hash": "f56be7ae14d12d5118414426273a2e57b71f248b"
+          }
+        },
+        {
+          "client_id": "1050658174740-khv5lp64grbeih3njiivkv2h0c6gkbi9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMCC0zHl3MbNKxJrbRr9YdnC_ug5iT34Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1050658174740-khv5lp64grbeih3njiivkv2h0c6gkbi9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

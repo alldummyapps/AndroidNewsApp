@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<network-security-config>
+    <domain-config cleartextTrafficPermitted="true">
+        <domain includeSubdomains="true">rss.walla.co.il</domain>
+        <domain includeSubdomains="true">rss.ynet.co.il</domain>
+        <domain includeSubdomains="true">http://rcs.mako.co.il/rss/news-military.xml</domain>
+        <domain includeSubdomains="true">http://rcs.mako.co.il/rss/31750a2610f26110VgnVCM1000005201000aRCRD.xml</domain>
+        <domain includeSubdomains="true">rss.mako.co.il</domain>
+    </domain-config>
+</network-security-config>
