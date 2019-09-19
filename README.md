@@ -7,7 +7,7 @@ This is a news app I made for my projects folder. this app group together all th
 
 
 
-![Screenshot_1568905482](https://user-images.githubusercontent.com/55537529/65256510-5099f880-db08-11e9-90da-111c9d563240.png =250x250)
+![Screenshot_1568905482](https://user-images.githubusercontent.com/55537529/65256510-5099f880-db08-11e9-90da-111c9d563240.png)
 
 ![Screenshot_1568905511](https://user-images.githubusercontent.com/55537529/65256512-51328f00-db08-11e9-9f06-6e1ee008539c.png)
 ![Screenshot_1568905528](https://user-images.githubusercontent.com/55537529/65256514-51328f00-db08-11e9-91cc-d8de34a4b119.png)
